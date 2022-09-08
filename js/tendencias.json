@@ -1,0 +1,63 @@
+[
+   {
+      "id": 10,
+      "poster": "vid/Tendencias/1.png",
+      "titulo": "Spiderman",
+      "categoria": "Pelicula",
+      "genero": "Drama",
+      "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+      "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+      "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+   },
+   {
+    "id": 11,
+    "poster": "vid/Tendencias/2.png",
+    "titulo": "Collateral",
+    "categoria": "Pelicula",
+    "genero": "Drama",
+    "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+    "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+    "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+   },
+   {
+    "id": 12,
+    "poster": "vid/Tendencias/3.png",
+    "titulo": "Desparejado",
+    "categoria": "Pelicula",
+    "genero": "Drama",
+    "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+    "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+    "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+   },
+   {
+    "id": 13,
+    "poster": "vid/Tendencias/4.png",
+    "titulo": "Deseos VIP",
+    "categoria": "Pelicula",
+    "genero": "Drama",
+    "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+    "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+    "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+    },
+    {
+        "id": 14,
+        "poster": "vid/Tendencias/5.png",
+        "titulo": "Entrevias",
+        "categoria": "Pelicula",
+        "genero": "Drama",
+        "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+        "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+        "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+    },
+    {
+        "id": 15,
+        "poster": "vid/Tendencias/6.png",
+        "titulo": "Sranger Things",
+        "categoria": "Pelicula",
+        "genero": "Drama",
+        "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+        "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+        "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+    }
+
+]

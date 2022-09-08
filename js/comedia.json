@@ -1,0 +1,63 @@
+[
+   {
+      "id": 20,
+      "poster": "vid/Comedias/1.png",
+      "titulo": "Toc Toc",
+      "categoria": "Pelicula",
+      "genero": "Drama",
+      "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+      "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+      "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+   },
+   {
+    "id": 21,
+    "poster": "vid/Comedias/2.png",
+    "titulo": "Corazon Loco",
+    "categoria": "Pelicula",
+    "genero": "Drama",
+    "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+    "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+    "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+   },
+   {
+    "id": 22,
+    "poster": "vid/Comedias/3.png",
+    "titulo": "Son como niños",
+    "categoria": "Pelicula",
+    "genero": "Drama",
+    "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+    "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+    "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+   },
+   {
+    "id": 23,
+    "poster": "vid/Comedias/4.png",
+    "titulo": "Ricos y Malcriados",
+    "categoria": "Pelicula",
+    "genero": "Drama",
+    "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+    "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+    "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+    },
+    {
+        "id": 24,
+        "poster": "vid/Comedias/5.png",
+        "titulo": "Norbit",
+        "categoria": "Pelicula",
+        "genero": "Drama",
+        "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+        "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+        "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+    },
+    {
+        "id": 25,
+        "poster": "vid/Comedias/6.png",
+        "titulo": "La Otra Missy",
+        "categoria": "Pelicula",
+        "genero": "Drama",
+        "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+        "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+        "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+    }
+
+]
