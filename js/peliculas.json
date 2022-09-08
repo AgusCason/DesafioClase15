@@ -1,0 +1,63 @@
+[
+   {
+      "id": 30,
+      "poster": "vid/Drama/1.png",
+      "titulo": "Inquebrantable",
+      "categoria": "Pelicula",
+      "genero": "Drama",
+      "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+      "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+      "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+   },
+   {
+    "id": 31,
+    "poster": "vid/Drama/2.png",
+    "titulo": "Chicas Perdidas",
+    "categoria": "Pelicula",
+    "genero": "Drama",
+    "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+    "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+    "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+   },
+   {
+    "id": 32,
+    "poster": "vid/Drama/3.png",
+    "titulo": "En busca de la felicidad",
+    "categoria": "Pelicula",
+    "genero": "Drama",
+    "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+    "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+    "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+   },
+   {
+    "id": 33,
+    "poster": "vid/Drama/4.png",
+    "titulo": "Vidas de papel",
+    "categoria": "Pelicula",
+    "genero": "Drama",
+    "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+    "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+    "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+    },
+    {
+        "id": 34,
+        "poster": "vid/Drama/5.png",
+        "titulo": "100 metros",
+        "categoria": "Pelicula",
+        "genero": "Drama",
+        "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+        "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+        "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+    },
+    {
+        "id": 35,
+        "poster": "vid/Drama/6.png",
+        "titulo": "Paternidad",
+        "categoria": "Pelicula",
+        "genero": "Drama",
+        "resumen": "El atleta olímpico Louis Zamperini se hizo piloto durante la Segunda Guerra Mundial y sobrevivió a una odisea al convertirse en prisionero de los japoneses.",
+        "reparto": "Jack O'Connell, Domhnall Gleeson, Garrett Hedlund, Miyavi, Finn Wittrock",
+        "trailer": "https://www.youtube.com/watch?v=0YNbBzzx-Q8&ab_channel=TrailersInSpanish"
+    },
+
+]
