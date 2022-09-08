@@ -1,7 +1,7 @@
 [
    {
       "id": 30,
-      "poster": "vid/Drama/1.png",
+      "poster": "vid/Dramas/1.png",
       "titulo": "Inquebrantable",
       "categoria": "Pelicula",
       "genero": "Drama",
@@ -11,7 +11,7 @@
    },
    {
     "id": 31,
-    "poster": "vid/Drama/2.png",
+    "poster": "vid/Dramas/2.png",
     "titulo": "Chicas Perdidas",
     "categoria": "Pelicula",
     "genero": "Drama",
@@ -21,7 +21,7 @@
    },
    {
     "id": 32,
-    "poster": "vid/Drama/3.png",
+    "poster": "vid/Dramas/3.png",
     "titulo": "En busca de la felicidad",
     "categoria": "Pelicula",
     "genero": "Drama",
@@ -31,7 +31,7 @@
    },
    {
     "id": 33,
-    "poster": "vid/Drama/4.png",
+    "poster": "vid/Dramas/4.png",
     "titulo": "Vidas de papel",
     "categoria": "Pelicula",
     "genero": "Drama",
@@ -41,7 +41,7 @@
     },
     {
         "id": 34,
-        "poster": "vid/Drama/5.png",
+        "poster": "vid/Dramas/5.png",
         "titulo": "100 metros",
         "categoria": "Pelicula",
         "genero": "Drama",
@@ -51,7 +51,7 @@
     },
     {
         "id": 35,
-        "poster": "vid/Drama/6.png",
+        "poster": "vid/Dramas/6.png",
         "titulo": "Paternidad",
         "categoria": "Pelicula",
         "genero": "Drama",
