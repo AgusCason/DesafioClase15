@@ -6,7 +6,7 @@ const pelisRecomendaciones = document.querySelector("#pelisRecomendaciones") ;
 const Drama = "https://aguscason.github.io/DesafioClase15/js/drama.json" 
 const Comedia = "https://aguscason.github.io/DesafioClase15/js/comedia.json" 
 const Recomendado = "https://aguscason.github.io/DesafioClase15/js/recomendado.json" 
-const Tendencia = "https://aguscason.github.io/DesafioClase15/js/tendencia.json" 
+const Tendencia = "https://aguscason.github.io/DesafioClase15/js/tendencias.json" 
   let prjs = [] 
   let contenidoHTML = "" ;
 
@@ -23,7 +23,9 @@ const retornoContenidoPelis = (pelicula) => {
 
 
 
-const cargarContenido = async () => {
+const cargarContenidoDrama = async () => {
+   let prjs = [] 
+   let contenidoHTML = "" ;
    await fetch(Drama)
         .then((response) => response.json())
         .then((data) => {
@@ -36,6 +38,8 @@ const cargarContenido = async () => {
 }
 
 const cargarContenidoRecomendado = async () => {
+  let prjs = [] 
+  let contenidoHTML = "" ;
   await fetch(Recomendado)
        .then((response) => response.json())
        .then((data) => {
@@ -48,6 +52,8 @@ const cargarContenidoRecomendado = async () => {
 }
 
 const cargarContenidoComedia = async () => {
+  let prjs = [] 
+  let contenidoHTML = "" ;
   await fetch(Comedia)
        .then((response) => response.json())
        .then((data) => {
@@ -74,6 +80,6 @@ const cargarContenidoTendencia = async () => {
 
 cargarContenidoTendencia() ;
 cargarContenidoRecomendado () ;
-cargarContenido () ;
+cargarContenidoDrama () ;
 cargarContenidoComedia () ;
 
