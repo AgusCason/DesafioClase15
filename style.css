@@ -70,6 +70,61 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
 .navbar-usuarios-apartados{flex-flow: wrap;}
 
 
+/* -----carrusel-----  */
+
+/* Tendencias */
+.peliculas-tendencias{ margin-bottom: 40px;margin: 2.5%;}
+.carrusel-controles{display: flex; flex-flow: wrap;justify-content: space-between;align-items: end;}
+.carrusel-controles h4{color: white;font-weight: 700;font-size: 130%;}
+.contenedor-carrusel-principal{display: flex;flex-flow: wrap;}
+#flecha-izq{position: absolute; border: none; background: rgba(0, 0, 0, 0.5);font-size: 40px;height: 10%;line-height: 50px;width: 20px;color: white;z-index: 500;transition: .2s ease all;left: 3.4%;margin-top: 60px;}
+#flecha-izq img{width: 85%;}
+#flecha-izq:hover{background: rgba(0, 0, 0, 0.9);}
+#flecha-der{position: absolute; border: none; background: rgba(0, 0, 0, 0.5);font-size: 40px;height: 10%;line-height: 50px;width: 20px;color: white;z-index: 500;transition: .2s ease all;margin-top: 60px;right: 4%;}
+#flecha-der img{width: 85%;}
+#flecha-der:hover{background: rgba(0, 0, 0, 0.9);}
+.contendor-carrusel{width: 100%;padding: 20px 0px;overflow: hidden;scroll-behavior: smooth;}
+.carrusel-tendencias{display: flex;flex-wrap: nowrap;}
+.peliculas{min-width: 20%;box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);}
+.peliculas img{width: 100%;vertical-align: top;padding: 2.5%;}
+.peliculas img:hover{-webkit-transform:scale(1.3);transition: all 1s ease;}
+
+/* Recomendaciones */
+.peliculas-recomendaciones{ margin-bottom: 40px;margin: 2.5%;}
+#flecha-izq-recomendaciones{position: absolute; border: none; background: rgba(0, 0, 0, 0.5);font-size: 40px;height: 10%;line-height: 50px;width: 20px;color: white;z-index: 500;transition: .2s ease all;left: 3.4%;margin-top: 60px;}
+#flecha-izq-recomendaciones img{width: 85%;}
+#flecha-izq-recomendaciones:hover{background: rgba(0, 0, 0, 0.9);}
+#flecha-der-recomendaciones{position: absolute; border: none; background: rgba(0, 0, 0, 0.5);font-size: 40px;height: 10%;line-height: 50px;width: 20px;color: white;z-index: 500;transition: .2s ease all;margin-top: 60px;right: 4%;}
+#flecha-der-recomendaciones img{width: 85%;}
+#flecha-der-recomendaciones:hover{background: rgba(0, 0, 0, 0.9);}
+.contendor-carrusel-recomendaciones{width: 100%;padding: 20px 0px;overflow: hidden;scroll-behavior: smooth;}
+.carrusel-recomendaciones{display: flex;flex-wrap: nowrap;}
+
+/* Drama */
+.peliculas-drama{ margin-bottom: 40px;margin: 2.5%;}
+#flecha-izq-drama{position: absolute; border: none; background: rgba(0, 0, 0, 0.5);font-size: 40px;height: 10%;line-height: 50px;width: 20px;color: white;z-index: 500;transition: .2s ease all;left: 3.4%;margin-top: 60px;}
+#flecha-izq-drama img{width: 85%;}
+#flecha-izq-drama:hover{background: rgba(0, 0, 0, 0.9);}
+#flecha-der-drama{position: absolute; border: none; background: rgba(0, 0, 0, 0.5);font-size: 40px;height: 10%;line-height: 50px;width: 20px;color: white;z-index: 500;transition: .2s ease all;margin-top: 60px;right: 4%;}
+#flecha-der-drama img{width: 85%;}
+#flecha-der-drama:hover{background: rgba(0, 0, 0, 0.9);}
+.contendor-carrusel-drama{width: 100%;padding: 20px 0px;overflow: hidden;scroll-behavior: smooth;}
+.carrusel-drama{display: flex;flex-wrap: nowrap;}
+
+/* Comedia */
+.peliculas-comedia{ margin-bottom: 40px;margin: 2.5%;}
+#flecha-izq-comedia{position: absolute; border: none; background: rgba(0, 0, 0, 0.5);font-size: 40px;height: 10%;line-height: 50px;width: 20px;color: white;z-index: 500;transition: .2s ease all;left: 3.4%;margin-top: 60px;}
+#flecha-izq-comedia img{width: 85%;}
+#flecha-izq-comedia:hover{background: rgba(0, 0, 0, 0.9);}
+#flecha-der-comedia{position: absolute; border: none; background: rgba(0, 0, 0, 0.5);font-size: 40px;height: 10%;line-height: 50px;width: 20px;color: white;z-index: 500;transition: .2s ease all;margin-top: 60px;right: 4%;}
+#flecha-der-comedia img{width: 85%;}
+#flecha-der-comedia:hover{background: rgba(0, 0, 0, 0.9);}
+.contendor-carrusel-comedia{width: 100%;padding: 20px 0px;overflow: hidden;scroll-behavior: smooth;}
+.carrusel-comedia{display: flex;flex-wrap: nowrap;}
+
+/*-------------*/
+
+
 /* dispositivo mediano */
 @media(min-width: 580px) and (max-width: 989px){
 
@@ -81,5 +136,52 @@ body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;backg
 /* dispositivo pequeño */
 @media(max-width: 579px){
 
+    .nav-logo{width: 30%;}
+    .nav-logo img{width: 30%;margin-left: 30%;margin-top: 10%;}
+    .nav-menu{display: none;}
+    .nav-buscador{width: 10%;}
+    .nav-buscador img{width: 55%;margin-top: 45%;}
+    .nav-campanita{width: 10%;}
+    .nav-campanita img{width: 55%;margin-top: 45%;}
+    .nav-usuario{width: 20%;}
+    .nav-usuario img{width: 55%;margin-top: 10%;}
+
+    .video-trailer{width: 100%;padding-top: 10%;}
+    .video-trailer-titulo{width: 40%;margin-left: 2.5%;margin-top: -32%;}
+    .video-trailer-titulo img{width: 80%;}
+    .video-trailer-botones-izq{width: 50%;}
+    .video-trailer-botones-izq-izq{width: 50%;margin-left: 0%;}
+    .btn-trailer-izq{width: 80%;}
+    .btn-trailer-izq p{font-size: 65%;}
+    .video-trailer-botones-izq-der{width: 50%;}
+    .btn-trailer-der p{font-size: 65%;}
+    .video-trailer-botones-der{width: 10%;margin-left: 40%;}
+    .silder-top10{margin-top: 5%;overflow: hidden;}
+    .silder-top10 h4{font-size: 100%;margin-bottom: 10px;}
+    .silder-top10 img{width: 300%;}
+
+
+
+
+/* -----carrusel-----  */
+    /* Tendencias */
+    .peliculas-tendencias{ margin-bottom: 10px;}
+    .carrusel-controles h4{font-size: 120%;}
+    #flecha-izq{left: 2.5%;margin-top: 22%;}
+    #flecha-der{margin-top: 22%;right: 2.5%;}
+    .peliculas{min-width: 100%;}
+    .peliculas img{padding: 5%;}
+    /* Recomendaciones */
+    .peliculas-recomendaciones{ margin-bottom: 10px;}
+    #flecha-izq-recomendaciones{left: 2.5%;margin-top: 22%;}
+    #flecha-der-recomendaciones{margin-top: 22%;right: 2.5%;}
+    /* Drama */
+    .peliculas-drama{ margin-bottom: 10px;}
+    #flecha-izq-drama{left: 2.5%;margin-top: 22%;}
+    #flecha-der-drama{margin-top: 22%;right: 2.5%;}
+    /* Comedia */
+    .peliculas-comedia{ margin-bottom: 10px;}
+    #flecha-izq-comedia{left: 2.5%;margin-top: 22%;}
+    #flecha-der-comedia{margin-top: 22%;right: 2.5%;}
     
 }

@@ -1,7 +1,7 @@
-const pelisDrama = document.querySelector("#pelisDrama") ;
-const pelisComedia = document.querySelector("#pelisComedia") ;
+const pelisDrama = document.querySelector("#carrusel-drama") ;
+const pelisComedia = document.querySelector("#carrusel-comedia") ;
 const pelisTendencia = document.querySelector("#carrusel-tendencias") ;
-const pelisRecomendaciones = document.querySelector("#pelisRecomendaciones") ;
+const pelisRecomendaciones = document.querySelector("#carrusel-recomendaciones") ;
 
 const Drama = "https://aguscason.github.io/DesafioClase15/js/drama.json" 
 const Comedia = "https://aguscason.github.io/DesafioClase15/js/comedia.json" 
