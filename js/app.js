@@ -1,6 +1,6 @@
 const pelisDrama = document.querySelector("#pelisDrama") ;
 const pelisComedia = document.querySelector("#pelisComedia") ;
-const pelisTendencia = document.querySelector("#pelisTendencia") ;
+const pelisTendencia = document.querySelector("#carrusel-tendencias") ;
 const pelisRecomendaciones = document.querySelector("#pelisRecomendaciones") ;
 
 const Drama = "https://aguscason.github.io/DesafioClase15/js/drama.json" 
@@ -17,7 +17,7 @@ const Tendencia = "https://aguscason.github.io/DesafioClase15/js/tendencias.json
 const retornoContenidoPelis = (pelicula) => {
   const {id, titulo, poster} = pelicula ;
   return `<div class="peliculas">
-            <img id="${pelicula.id}" src="${pelicula.poster}" alt="${pelicula.titulo}" title="${pelicula.titulo}">
+            <a href="#"><img id="${pelicula.id}" src="${pelicula.poster}" alt="${pelicula.titulo}" title="${pelicula.titulo}"></a>
           </div>`
 }
 
